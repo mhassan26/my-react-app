@@ -10,6 +10,7 @@ function App() {
         <li>Item 2</li>
         <li>Item 3</li>
       </ul>
+      <button>Click me</button>
     </div>
   );
 }
