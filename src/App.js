@@ -11,6 +11,8 @@ function App() {
         <li>Item 3</li>
       </ul>
       <button>Click me</button>
+      <input type="text" placeholder="Enter your name" />
+      <img src="https://via.placeholder.com/150" alt="Placeholder" /> 
     </div>
   );
 }
